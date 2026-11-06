@@ -1,0 +1,12 @@
+annotation_id,category,label,confidence,review_status
+ANN001,Vehicle,car,0.97,Approved
+ANN002,Animal,dog,0.91,Approved
+ANN003,Person,person,0.88,Approved
+ANN004,Food,pizza,0.94,Approved
+ANN005,Electronic Device,phone,0.89,Approved
+ANN006,vehicle,truck,0.82,Approved
+ANN007,Animal,cat,,Needs Review
+ANN008,Person,person,1.08,Needs Review
+ANN009,Food,pizza,0.95,Approved
+ANN009,Food,pizza,0.95,Approved
+ANN010,Electronic Device,laptop,0.86,Needs Review
